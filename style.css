@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 40px;
+}
+#show {
+  background: #000;
+  height: 300px;
+  width: 400px;
+  border: 1px dotted;
+}
